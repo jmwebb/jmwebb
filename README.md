@@ -2,7 +2,9 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/webbmjames/)
 
-I'm a Senior Data Scientist at [Dray Alliance](https://www.linkedin.com/in/webbmjames/](https://www.drayalliance.com/home/)
+I'm a Senior Data Scientist at [Dray Alliance](https://www.drayalliance.com/home/) where I wrangle and analyze data to drive efficiency and growth.
+
+I am passionate about technology that moves the analog world. Autonomy, robotics, supply chain. I'm a generalist who loves learning new technologies and learning how to learn.
 
 <!--
 **jmwebb/jmwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
