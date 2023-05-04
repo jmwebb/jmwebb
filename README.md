@@ -6,7 +6,7 @@ I'm a Senior Data Scientist at [Dray Alliance](https://www.drayalliance.com/home
 
 I am passionate about technology that moves the analog world. Autonomy, robotics, supply chain. I'm a generalist who loves learning new technologies and learning how to learn.
 
-> _The grind is the whole point._ ~ Aaron Chronister
+> _The grind is the whole point._ ~ Dr. Aaron Chronister
 
 <!--
 **jmwebb/jmwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
