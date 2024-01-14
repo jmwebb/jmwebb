@@ -2,9 +2,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/webbmjames/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@webbwords)
 
-I'm a Senior Data Scientist at [Dray Alliance](https://www.drayalliance.com/home/) where I wrangle and analyze data to drive efficiency and growth.
-
-I am passionate about technology that moves the analog world. Autonomy, robotics, supply chain. I'm a generalist who loves learning new technologies and learning how to learn.
+I'm here to build software and chew bubblegum. And I'm all out of bubblegum.
 
 > _The grind is the whole point._ ~ Dr. Aaron Chronister
 
