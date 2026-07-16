@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/webbmjames/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@webbwords)
-
 I'm here to build software and chew bubblegum. And I'm all out of bubblegum.
 
 > _The grind is the whole point._ ~ Dr. Aaron Chronister
