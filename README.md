@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm here to build software and chew bubblegum. And I'm all out of bubblegum.
-
 > _The grind is the whole point._ ~ Dr. Aaron Chronister
 
 <!--
